@@ -1,0 +1,22 @@
+Entity recognition,Prefix chunk 1,Prefix chunk 2,Prefix chunk 3,Prefix chunk 4,Prefix chunk 5,Prefix chunk 6
+Suggested token,{},{},{},{},{},{}
+Suggested token,,,,,,{0-9}
+Suggested token,,{.],,{.],,
+Suggested token,,{-},,{-},,
+Suggested token,,{_},,{_},,
+Suggested token,{first},,{first},,{first},
+Suggested token,{last},,{last},,{last},
+Suggested token,{ifirst initial},,{ifirst initial},,{ifirst initial},
+Suggested token,{last initial},,{last initial},,{last initial},
+Suggested token,{First},,{First},,{First},
+Suggested token,{Last},,{Last},,{Last},
+Suggested token,{First initial},,{First initial},,{First initial},
+Suggested token,{Last initial},,{Last initial},,{Last initial},
+Suggested token,,,{middle initial},,,
+Suggested token,,,{middle},,,
+Suggested token,,,{second first},,,
+Suggested token,,,{patronimic},,,
+Suggested token,,,{Middle initial},,,
+Suggested token,,,{Middle},,,
+Suggested token,,,{Second first},,,
+Suggested token,,,{Patronimic},,,
