@@ -1,3 +1,6 @@
+"""
+parse prototypical email addresses...
+"""
 emails = ['John.Smith@google.com', 
           'John_Smith@google.com', 
           'John-Smith@google.com',
