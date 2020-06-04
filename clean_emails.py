@@ -4,6 +4,9 @@
 Created on Sun Apr  5 13:42:11 2020
 
 @author: artemponomarev
+
+email parsing...
+
 """
 from typing import List
 import glob
