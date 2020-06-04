@@ -4,6 +4,9 @@
 Created on Mon Apr  6 07:01:42 2020
 
 @author: artemponomarev
+
+an app that converts email addresses into names or 
+names into email addresses...
 """
 
 import Algorithmia
