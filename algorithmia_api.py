@@ -4,6 +4,9 @@
 Created on Sun Apr 19 15:08:41 2020
 
 @author: artemponomarev
+
+an app to clean email addresses for users from a DB...
+
 """
 
 import Algorithmia
